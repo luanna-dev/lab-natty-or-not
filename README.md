@@ -1,18 +1,16 @@
-# Cuidando da Saúde Mental e Espiritual através da prática da Meditação e Respiração Consciente 🌌
+# Como organizar sua vida Financeira com Planilhas Inteligentes 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das xxxxxxxxxxxxxx no nosso dia a dia e como elas moldarão o futuro.
+Esta pasta de trabalho é composta por três planilhas, sendo a planilha Data contendo modelo de dados, planilha Controller com campos definidos da Tabela Dinâmica e planilha Dashbord onde foram inseridos gráficos dinamicos com as informações utilizadas.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Midjourney](https://midjourney.com)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Excel** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre xxxxxxxx, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei a Base de Dados disponível no desafio do projeto para criar minha planilha financeira inteligente.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as xxxxxxxxxxxxxxxxx podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+A planilha financeira apresenta um conteúdo visualmente rico, demonstrando como dar sentido as dados simples para vizualização de informações de forma agradável que podem ser uma ferramenta poderosa para alcance de metas e objetivos.
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o xxxxxxxxxxxxxxxxxpotencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este planilha foi uma experiência reveladora sobre como enriquecer uma apresentação de informações por gráficos a partir de dados básicos com criatividade e aplicação prática.
